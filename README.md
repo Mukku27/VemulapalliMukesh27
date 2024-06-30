@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-vemulapalli-93a259261" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/VemulapalliMuk1" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/VemulapalliMuk1" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/x-logo.png" alt="X" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vemulapalli_mukesh/" target="_blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png" alt="instagram" height="30" width="40" /></a>
-
+<a href="https://twitter.com/VemulapalliMuk1" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="twitter" height="30" width="40" /></a>
 </p>
 
 ![AI](https://img.shields.io/badge/AI-00BCD4?style=for-the-badge&logo=ai&logoColor=white)
@@ -40,6 +40,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-008CFF?style=for-the-badge&logo=iot&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
