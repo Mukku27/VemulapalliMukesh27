@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-vemulapalli-93a259261" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="30" width="40" /></a>
-<a href="https://x.com/VemulapalliMuk1" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/x-logo.png" alt="X" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vemulapalli_mukesh/" target="_blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png" alt="instagram" height="30" width="40" /></a>
 <a href="https://twitter.com/VemulapalliMuk1" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vemulapalli_mukesh/" target="_blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png" alt="instagram" height="30" width="40" /></a>
+
 </p>
 
 ![AI](https://img.shields.io/badge/AI-00BCD4?style=for-the-badge&logo=ai&logoColor=white)
